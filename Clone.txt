@@ -1,0 +1,4 @@
+This file created to test the git clone .
+Added this line after below commands tested .
+git reset --soft HEAD~1
+git rm --cached <Filename>
