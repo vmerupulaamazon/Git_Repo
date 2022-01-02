@@ -1,4 +1,4 @@
 Below is the configuration 
-X=5
+X=5000
 Y=10
 Z=15
